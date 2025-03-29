@@ -1,3 +1,5 @@
+USE airbnb_data;
+
 -- Check the table to identify any errors/null values/incorrect information
 SELECT * 
 FROM airbnb_info
